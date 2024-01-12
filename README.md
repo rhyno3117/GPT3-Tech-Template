@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Modern UI/UX GPT-3 Website Template
+Welcome to my project! This project is a responsive and aesthetically pleasing website template using React. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](image.png)
+
+It covers key aspects such as:
+
+React Functional Components
+
+React File and Folder Structure
+
+CSS Mastery
+
+Responsiveness
 
 ## Available Scripts
 
