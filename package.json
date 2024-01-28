@@ -2,6 +2,7 @@
   "name": "special-project-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rhyno3117.github.io/GPT3-Tech-Template",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start index.html",
-    "build": "react-scripts build",
+    "build": "react-scripts build --output-path=build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
